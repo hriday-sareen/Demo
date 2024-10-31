@@ -1,3 +1,3 @@
 # Demo
 First Repository for understanding <br>
-By Hriday
+By Hriday Sareen
